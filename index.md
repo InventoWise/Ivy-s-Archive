@@ -13,6 +13,23 @@ A bilingual archive for early learning resources, organized by age bands and ski
 - [年龄分段 Age Bands](README.md#年龄分段-age-bands)
 - [能力主题 Skill Themes](README.md#能力主题-skill-themes)
 - [资源目录 Resources](resources/)
+  <details>
+  <summary>按年龄段浏览 Browse by Age</summary>
+
+  - 0-2岁 / Age 0-2
+    - *暂无资源 No resources yet*
+  - 2-3岁 / Age 2-3
+    - *暂无资源 No resources yet*
+  - 3-4岁 / Age 3-4
+    - *暂无资源 No resources yet*
+  - 4-5岁 / Age 4-5
+    - [Sight Words Egg Hatcher Game](resources/age-4-5/sight_words_egg_hatcher.md)
+    - [Kindergarten Sight Words List 1](resources/age-4-5/sight_words_printable.md)
+  - 5-6岁 / Age 5-6
+    - *暂无资源 No resources yet*
+  - 6-8岁 / Age 6-8
+    - *暂无资源 No resources yet*
+  </details>
 - [资源收录规范 How To Add A Resource](README.md#资源收录规范-how-to-add-a-resource)
 - [元数据字段定义 Metadata Schema](README.md#元数据字段定义-metadata-schema)
 - [隐私与安全 Privacy and Safety](docs/safety-and-privacy.md)
